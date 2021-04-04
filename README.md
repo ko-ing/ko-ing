@@ -1,5 +1,6 @@
 ### Welcome to Hongseok's github 👋
-### Ko-ing means literally "Going". Nothing but just Keeping Going 😎
+Ko-ing means literally "Going". Nothing but just Keeping Going 😎
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ko-ing)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
