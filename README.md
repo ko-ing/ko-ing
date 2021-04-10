@@ -1,4 +1,4 @@
- <div align=center>
+
 ### Welcome to Hongseok's github 👋
 Ko-ing means literally "Going". Nothing but just Keeping Going 😎
 
@@ -27,4 +27,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-</div>
