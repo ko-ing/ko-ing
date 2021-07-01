@@ -1,15 +1,6 @@
 
 ### Welcome to Hongseok's github 👋
-Ko-ing means literally "Going". Nothing but just Keeping Going 😎
-
-### Software Engineer (Server Developer)
-Junior Backend Developer mainly using Java | Spring Framework
-
-### Currently Working On / Learning ..
-- Reasonable Project
-- Getting to know Docker
-- TDD Project
-
+조홍석입니다
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ko-ing)](https://github.com/anuraghazra/github-readme-stats)
 
