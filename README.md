@@ -1,6 +1,12 @@
 
-### Welcome to Hongseok's github 👋
-조홍석입니다
+### Server Developer 👋
+- since late 2020
+- Kotlin/Java Spring Framework
+
+### Interested In
+- Developing, Writing, Reading, Singing, Running, Working out...
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Private%20blog-black?style=flat-square&logo=git&link=https://ko-ing.github.io/)](https://ko-ing.github.io/)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ko-ing)](https://github.com/anuraghazra/github-readme-stats)
 
