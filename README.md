@@ -6,6 +6,14 @@
 ### Interested In
 - Developing, Writing, Reading, Singing, Running, Working out...
 
+### Now Working On / Studying 
+- Effective Java 3/E by Joshu Bloch
+- Reactive Streams
+
+### Pending
+- Blog 😢
+- Reasonable Project
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Private%20Blog-black?style=flat-square&logo=git&link=https://ko-ing.github.io/)](https://ko-ing.github.io/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Development%20Study-black?style=flat-square&logo=notion&link=https://grizzled-saxophone-561.notion.site/Development-Study-15d76597f72648f8bcb035344f92d9ab)](https://grizzled-saxophone-561.notion.site/Development-Study-15d76597f72648f8bcb035344f92d9ab)
 
