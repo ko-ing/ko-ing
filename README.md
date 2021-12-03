@@ -8,10 +8,8 @@
 
 ### Now Working On / Studying 
 - Effective Java 3/E by Joshu Bloch
-- Reactive Streams
 
 ### Pending
-- Blog 😢
 - Reasonable Project
 
 [![Tech Blog Badge](http://img.shields.io/badge/-My%20Blog-black?style=flat-square&logo=git&link=https://velog.io/@ko-ing)](https://velog.io/@ko-ing)
