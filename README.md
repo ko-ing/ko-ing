@@ -12,6 +12,7 @@
 ### Pending
 - Reasonable Project
 
+### More Things to Look Around
 [![Tech Blog Badge](http://img.shields.io/badge/-My%20Blog-black?style=flat-square&logo=git&link=https://velog.io/@ko-ing)](https://velog.io/@ko-ing)
 [![Tech Blog Badge](http://img.shields.io/badge/-Development%20Study-black?style=flat-square&logo=notion&link=https://grizzled-saxophone-561.notion.site/Development-Study-15d76597f72648f8bcb035344f92d9ab)](https://grizzled-saxophone-561.notion.site/Development-Study-15d76597f72648f8bcb035344f92d9ab)
 
