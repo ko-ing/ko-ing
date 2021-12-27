@@ -7,6 +7,7 @@
 - Developing, Writing, Reading, Singing, Running, Working out...
 
 ### Now Working On / Studying 
+- Golang Jin
 - Effective Java 3/E by Joshu Bloch
 
 ### Pending
