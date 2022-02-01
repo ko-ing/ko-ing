@@ -8,10 +8,11 @@
 
 ### Now Working On / Studying 
 - Golang Jin
-- Effective Java 3/E by Joshu Bloch
+- Jjal Talk
 
 ### Pending
 - Reasonable Project
+- Effective Java 3/E by Joshu Bloch
 
 ### More Things to Look Around👇🏻
 [![Tech Blog Badge](http://img.shields.io/badge/-My%20Private%20Blog-black?style=flat-square&logo=git&link=https://velog.io/@ko-ing)](https://velog.io/@ko-ing)
