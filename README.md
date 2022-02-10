@@ -18,7 +18,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-My%20Private%20Blog-black?style=flat-square&logo=git&link=https://velog.io/@ko-ing)](https://velog.io/@ko-ing)
 [![Tech Blog Badge](http://img.shields.io/badge/-Development%20Study-black?style=flat-square&logo=notion&link=https://grizzled-saxophone-561.notion.site/Development-Study-15d76597f72648f8bcb035344f92d9ab)](https://ko-ing.notion.site/15d76597f72648f8bcb035344f92d9ab)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ko-ing)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ko-ing&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ko-ing/ko-ing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
