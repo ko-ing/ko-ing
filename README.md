@@ -9,6 +9,7 @@
 ### Now Working On / Studying 
 - Golang Jin
 - Jjal Talk
+- Objects Group Study
 
 ### Pending
 - Reasonable Project
