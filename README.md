@@ -7,8 +7,6 @@
 - Developing, Writing, Reading, Singing, Running, Working out...
 
 ### Now Working On / Studying 
-- Golang Jin
-- Jjal Talk
 - Objects Group Study
 
 ### Pending
