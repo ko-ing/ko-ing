@@ -7,7 +7,7 @@
 - Developing, Writing, Reading, Singing, Running, Working out...
 
 ### Now Working On / Studying 
-- Objects Group Study
+- Coin Auto Trade Service
 
 ### Pending
 - Reasonable Project
