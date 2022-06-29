@@ -8,6 +8,7 @@
 
 ### Now Working On / Studying 
 - Coin Auto Trade Service
+- Domain Driven Development
 
 ### Pending
 - Reasonable Project
