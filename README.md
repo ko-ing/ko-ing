@@ -8,7 +8,8 @@
 
 ### Now Working On / Studying 
 - Coin Auto Trade Service
-- Domain Driven Development
+- Domain Driven Design - Eric Evans
+- YBIGTA
 
 ### Pending
 - Reasonable Project
